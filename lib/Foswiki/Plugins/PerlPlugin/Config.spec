@@ -91,8 +91,6 @@ $Foswiki::cfg{Plugins}{PerlPlugin}{Share} = {
         '&decodeFormatTokens',
         '&searchInWebContent',
         '&getWorkArea',
-        #'&readFile',
-        #'&saveFile',
         '&getRegularExpression',
         '&normalizeWebTopicName',
         '&StaticMethod',
