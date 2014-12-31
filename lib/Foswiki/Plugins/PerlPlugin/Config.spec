@@ -104,3 +104,4 @@ $Foswiki::cfg{Plugins}{PerlPlugin}{Share} = {
         '&extractNameValuePair',
        ]
     };
+1;
